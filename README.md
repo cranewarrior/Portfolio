@@ -1,6 +1,5 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://peterpaker.vercel.app/" target="_blank">peterpaker.tech</a>
 </h2>
 
 <br/>
