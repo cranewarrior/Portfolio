@@ -16,18 +16,14 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/peterpaker4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/peterpaker4419/Portfolio/issues">Request Feature</a>
+    <a href="https://portfolio-peter-8c073.web.app/" target="_blank">Visit website</a> &nbsp; &nbsp;
 </h3>
 
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [peterpaker4419](https://github.com/peterpaker4419/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit. Thanks!
 
 ## Built With
 
-My personal portfolio <a href="https://peterpaker.vercel.app/" target="_blank">peterpaker.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio peterpaker.tech which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
