@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I have skills like 
               <i>
-                <b className="purple"> Javascript/Typescript, React, UI/UX Dessogm and so on. </b>
+                <b className="purple"> Javascript/Typescript, React, UI/UX Design and so on. </b>
               </i>
               <br />
               <br />
@@ -58,7 +58,7 @@ function Home2() {
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              <span className="purple">peterpaker0325@gmail.com </span>
             </p>
           </Col>
         </Row>
